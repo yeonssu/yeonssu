@@ -15,7 +15,7 @@
 <br>
 <h4 align="center">🌈 Follow Me 🌈</h4>
 <p align="center">
-  <a href="https://closed-ostrich-ac1.notion.site/Yeon-s-blog-dd07e49f460149d3a1fe7c5fb0b82b03?pvs=4"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://closed-ostrich-ac1.notion.site/Yeon-s-blog-dd07e49f460149d3a1fe7c5fb0b82b03?pvs=4"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://closed-ostrich-ac1.notion.site/Yeon-s-blog-dd07e49f460149d3a1fe7c5fb0b82b03?pvs=4"/></a>&nbsp
   <a href="mailto:dustn7197@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dustn7197@naver.com"/></a>
 </p>
 <br>
