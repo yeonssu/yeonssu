@@ -22,7 +22,7 @@
 <h4 align="center">👩‍💻 My Github Stats 👩‍💻</h4>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonssu&layout=compact)](https://github.com/yeonssu/github-readme-stats) ![Github stats](https://github-readme-stats.vercel.app/api?username=yeonssu&theme=vue&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonssu&layout=compact)](https://github.com/yeonssu/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonssu&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </p>
 <br>
